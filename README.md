@@ -38,4 +38,4 @@ Check out her repositories at her GitHub page and the course itself:
 <a>https://github.com/kubowania</a>
 
 <a>https://www.youtube.com/watch?v=ec8vSKJuZTk</a>
-</div>
+</div># senac-sistema-aluno
